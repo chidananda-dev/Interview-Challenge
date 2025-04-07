@@ -6,3 +6,4 @@ pydantic
 azure-identity
 azure-mgmt-network
 sqlite-utils
+python-dotenv
